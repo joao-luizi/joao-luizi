@@ -1,6 +1,6 @@
 ## Hi there, I’m Joao 👋
 ### Aspiring Software Engineer with a passion for programming.
-<ins>I'm currently studying at 42 School Lisbon.
+<!-- <ins>I'm currently studying at 42 School Lisbon. -->
 
 I spent 12 years in healthcare as a healthcare technician, where I began automating day-to-day tasks with VBA and later moved on to C# with WinForms using a bit of SQL for in-house data warehousing. 
 
