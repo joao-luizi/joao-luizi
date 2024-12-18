@@ -11,15 +11,15 @@ As a father of two young kids, I don’t have much time off, but gaming remains 
 
 still feels like the best tagline a computer software house ever had. 
 
-I'm also interested in deepening my understanding of AI and cybersecurity, though I’m focused on finishing the 42 common core first, as spreading myself too thin can become a real issue.
+I'm also interested in deepening my understanding of AI and cybersecurity, though I’m focused on finishing the 42 common core.
 
 ### What I’m working on:
 
 School 42 Common Core
 
-C# Academy
+C# Academy (on hold)
 
-freeCodeCamp
+freeCodeCamp (on hold)
 
 ### Tech I’m using:
 
