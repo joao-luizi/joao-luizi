@@ -1,29 +1,25 @@
 ## Hi there, I’m Joao 👋
-### Aspiring Software Engineer with a passion for programming.
+### Aspiring Software Engineer | Problem Solver | Tech Enthusiast
 <!-- <ins>I'm currently studying at 42 School Lisbon. -->
 
-I spent 12 years in healthcare as a healthcare technician, where I began automating day-to-day tasks with VBA and later moved on to C# with WinForms using a bit of SQL for in-house data warehousing. 
+With 12 years of experience in healthcare, I discovered my passion for programming by automating workflows using VBA, then diving deeper into C# with WinForms and SQL to develop in-house data warehousing solutions. Later, I managed a social service project supporting 200+ people, but my passion for coding led me to fully transition into tech during the pandemic.
 
-Eventually, I managed a social service project with around 200 people, but my passion for programming never went away and during the pandemic, I decided to fully transition into tech. 
+Now a student at Escola 42 Lisboa, I’m focused on mastering C, UNIX systems, and practical software engineering projects. I’m also eager to explore AI and cybersecurity once I complete the 42 common core.
 
-As a father of two young kids, I don’t have much time off, but gaming remains one of my best outlets—
->Origin: We create worlds
-
-still feels like the best tagline a computer software house ever had. 
-
-I'm also interested in deepening my understanding of AI and cybersecurity, though I’m focused on finishing the 42 common core.
+As a father of two, gaming is my creative outlet—and I still believe "Origin: We create worlds" is the best tagline ever for a software house.
 
 ### What I’m working on:
 
-School 42 Common Core
+- 42 Common Core Projects: From building a custom shell (Minishell) to tackling multithreaded simulations (Philosopher).
+- C# Academy Curriculum (on hold).
+- freeCodeCamp Full Stack Development (on hold).
 
-C# Academy (on hold)
-
-freeCodeCamp (on hold)
-
-### Tech I’m using:
+## Tech I’m using:
 
 C, C#, SQL
+
+## Soft Skills:
+Problem-solving | Process optimization | Team leadership | Independent learning
 
 ##
 
