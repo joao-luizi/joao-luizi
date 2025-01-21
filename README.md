@@ -11,7 +11,7 @@ As a father of two, gaming is my creative outlet—and I still believe "Origin: 
 ### What I’m working on:
 
 - [42 Common Core Projects](https://github.com/joao-luizi/42_Common_Core): From building a custom shell (Minishell) to tackling multithreaded simulations (Philosopher).
-- C# Academy Curriculum.
+- [C# Academy Curriculum](https://github.com/joao-luizi/CSharpAcademy).
 - freeCodeCamp Curriculum.
 
 ## Tech I’m using:
