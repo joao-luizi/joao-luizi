@@ -27,7 +27,8 @@ Problem-solving | Process optimization | Team leadership | Independent learning
 
 ##
   
-![JoaoLuizi GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-luizi&show_icons=true&theme=radical)
+[![JoaoLuizi GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-luizi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=joao-luizi&show_icons=true&count_private=true&theme=radical&hide=stars
+)
 
 ##
 
